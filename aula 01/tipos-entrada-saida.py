@@ -10,7 +10,6 @@ print(tipo_nome)  # imprimir tipo da variavel
 print(tipo_idade)  # imprimir tipo da variavel
 print(tipo_altura)  # imprimir tipo da variavel
 
-
 print(type(nome), type(idade), type(altura))  # juntando tudo em uma unica linha
 print(nome, 'tem', idade, 'anos e',
       altura, 'de altura')
