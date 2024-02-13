@@ -7,20 +7,21 @@ resultado = (a - b) / c + d
 
 print(resultado)
 
-# adicao = 1 + 1
+adicao = 1 + 1
 
-# subtracao = 2 - 1
+subtracao = 2 - 1
 
-# multiplicacao = 2 * 2
+multiplicacao = 2 * 2
 
-# divião  = 4 / 2
+divisão  = 4 / 2
 
-# potenciacao = 2 ** 2
+potenciacao = 2 ** 2
 
-# raiz_quadrada = 36 ** (1 / 2)  # Muita atenção para não esquecer o ()
+raiz_quadrada = (144 ** 0.5)  # Muita atenção para não esquecer o ()
 
-# print((adicao + subtracao), multiplicacao, divisao)
-# print(potenciacao, raiz_quadrada)
+print((adicao + subtracao), multiplicacao, divisão)
+print(raiz_quadrada)
+print(potenciacao)
 
 # Potenciação(1/2) Raiz Quadrada
 # () Usado também para determinar a ordem das operações
