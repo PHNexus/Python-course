@@ -1,2 +1,2 @@
 # Python-course
- https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge
+<img src="	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="">
