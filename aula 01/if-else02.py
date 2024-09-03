@@ -3,7 +3,7 @@ peso = input("peso")
 altura = input("altura")
 
 
-if idade => 17:
+if idade => 17 :
     print("você é maior de idade?")
 if peso < 75:
     print("você é menor de peso?" )
